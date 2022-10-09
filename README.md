@@ -1,1 +1,1 @@
-Analiza danych pogodowych z zastosowaniem modelu regresji liniowej oraz drzewa decyzyjnego.
+#Analiza danych pogodowych z zastosowaniem modelu regresji liniowej oraz drzewa decyzyjnego.
